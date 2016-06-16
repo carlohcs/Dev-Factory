@@ -1,0 +1,19 @@
+{
+  "name": "dev-factory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toschivictor/Dev-Factory.git"
+  },
+  "author": "Victor Toschi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toschivictor/Dev-Factory/issues"
+  },
+  "homepage": "https://github.com/toschivictor/Dev-Factory#readme"
+}
